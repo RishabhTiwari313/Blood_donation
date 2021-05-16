@@ -1,0 +1,201 @@
+,Months since Last Donation,Number of Donations,Total Volume Donated (c.c.),Months since First Donation,Y_predictions
+0,2,12,3000,52,Not Donated
+1,21,7,1750,38,Donated
+2,4,1,250,4,Not Donated
+3,11,11,2750,38,Not Donated
+4,4,12,3000,34,Donated
+5,3,21,5250,42,Donated
+6,4,2,500,4,Not Donated
+7,14,1,250,14,Not Donated
+8,23,2,500,87,Not Donated
+9,14,4,1000,64,Not Donated
+10,13,3,750,16,Not Donated
+11,11,7,1750,62,Not Donated
+12,5,11,2750,75,Not Donated
+13,4,1,250,4,Not Donated
+14,4,4,1000,26,Not Donated
+15,11,1,250,11,Not Donated
+16,11,6,1500,26,Not Donated
+17,7,14,3500,48,Donated
+18,23,14,3500,93,Donated
+19,3,4,1000,29,Not Donated
+20,2,7,1750,29,Not Donated
+21,4,6,1500,35,Donated
+22,5,7,1750,26,Donated
+23,4,1,250,4,Not Donated
+24,2,3,750,38,Not Donated
+25,5,14,3500,86,Donated
+26,2,2,500,11,Not Donated
+27,14,1,250,14,Not Donated
+28,4,3,750,16,Not Donated
+29,2,12,3000,52,Not Donated
+30,4,14,3500,86,Not Donated
+31,23,7,1750,88,Not Donated
+32,2,1,250,2,Not Donated
+33,4,7,1750,58,Donated
+34,4,2,500,41,Not Donated
+35,11,7,1750,29,Not Donated
+36,2,2,500,41,Not Donated
+37,14,1,250,14,Not Donated
+38,4,6,1500,28,Donated
+39,4,1,250,4,Not Donated
+40,2,2,500,4,Not Donated
+41,16,6,1500,35,Not Donated
+42,16,6,1500,81,Not Donated
+43,2,5,1250,26,Not Donated
+44,14,3,750,31,Not Donated
+45,2,1,250,2,Not Donated
+46,4,4,1000,14,Donated
+47,14,3,750,35,Not Donated
+48,14,1,250,14,Not Donated
+49,14,5,1250,28,Not Donated
+50,2,14,3500,57,Not Donated
+51,5,24,6000,79,Donated
+52,14,4,1000,23,Not Donated
+53,4,6,1500,39,Donated
+54,23,2,500,38,Donated
+55,11,8,2000,52,Not Donated
+56,2,7,1750,77,Donated
+57,4,5,1250,11,Donated
+58,2,4,1000,35,Not Donated
+59,2,15,3750,64,Not Donated
+60,4,1,250,4,Not Donated
+61,11,2,500,38,Donated
+62,12,15,3750,71,Donated
+63,2,13,3250,76,Not Donated
+64,11,2,500,38,Donated
+65,16,2,500,27,Not Donated
+66,9,4,1000,65,Not Donated
+67,21,16,4000,64,Not Donated
+68,7,10,2500,47,Donated
+69,4,1,250,4,Not Donated
+70,11,5,1250,35,Not Donated
+71,16,4,1000,23,Not Donated
+72,38,1,250,38,Donated
+73,4,1,250,4,Not Donated
+74,23,4,1000,52,Not Donated
+75,11,7,1750,64,Not Donated
+76,14,3,750,28,Not Donated
+77,4,11,2750,78,Donated
+78,16,4,1000,33,Not Donated
+79,4,5,1250,11,Donated
+80,38,1,250,38,Donated
+81,11,11,2750,38,Not Donated
+82,2,2,500,11,Not Donated
+83,2,2,500,4,Not Donated
+84,2,14,3500,57,Not Donated
+85,21,1,250,21,Not Donated
+86,11,1,250,11,Not Donated
+87,16,2,500,26,Not Donated
+88,21,16,4000,64,Not Donated
+89,2,4,1000,26,Not Donated
+90,4,1,250,4,Not Donated
+91,4,2,500,52,Not Donated
+92,14,3,750,31,Not Donated
+93,16,2,500,16,Not Donated
+94,16,11,2750,40,Not Donated
+95,11,11,2750,42,Not Donated
+96,4,5,1250,23,Donated
+97,11,12,3000,58,Not Donated
+98,23,8,2000,64,Not Donated
+99,4,2,500,4,Not Donated
+100,2,1,250,2,Not Donated
+101,11,6,1500,58,Not Donated
+102,21,3,750,35,Not Donated
+103,7,5,1250,35,Donated
+104,11,2,500,16,Not Donated
+105,2,4,1000,11,Not Donated
+106,15,16,4000,82,Not Donated
+107,2,10,2500,49,Donated
+108,4,1,250,4,Not Donated
+109,16,3,750,21,Not Donated
+110,9,2,500,16,Not Donated
+111,4,1,250,4,Not Donated
+112,23,7,1750,88,Not Donated
+113,4,8,2000,28,Donated
+114,11,11,2750,38,Not Donated
+115,23,3,750,48,Not Donated
+116,23,1,250,23,Not Donated
+117,4,7,1750,28,Donated
+118,4,16,4000,38,Donated
+119,2,2,500,23,Not Donated
+120,11,6,1500,58,Not Donated
+121,4,9,2250,26,Donated
+122,11,4,1000,34,Not Donated
+123,0,26,6500,76,Not Donated
+124,2,10,2500,52,Donated
+125,2,16,4000,81,Not Donated
+126,4,6,1500,46,Donated
+127,11,2,500,11,Not Donated
+128,11,4,1000,34,Not Donated
+129,14,2,500,14,Donated
+130,3,5,1250,26,Not Donated
+131,11,1,250,11,Not Donated
+132,11,3,750,15,Not Donated
+133,4,1,250,4,Not Donated
+134,4,7,1750,58,Donated
+135,4,2,500,4,Not Donated
+136,11,1,250,11,Not Donated
+137,11,3,750,76,Not Donated
+138,2,13,3250,32,Not Donated
+139,2,12,3000,98,Not Donated
+140,2,34,8500,77,Not Donated
+141,4,1,250,4,Not Donated
+142,2,2,500,11,Not Donated
+143,2,7,1750,77,Donated
+144,4,1,250,4,Not Donated
+145,23,1,250,23,Not Donated
+146,23,3,750,35,Not Donated
+147,4,5,1250,33,Not Donated
+148,23,3,750,62,Not Donated
+149,2,1,250,2,Not Donated
+150,21,2,500,41,Donated
+151,2,9,2250,22,Not Donated
+152,11,9,2250,33,Not Donated
+153,16,6,1500,40,Not Donated
+154,16,3,750,19,Not Donated
+155,8,15,3750,77,Donated
+156,16,1,250,16,Not Donated
+157,2,1,250,2,Not Donated
+158,5,24,6000,79,Donated
+159,11,1,250,11,Not Donated
+160,12,15,3750,71,Donated
+161,14,1,250,14,Not Donated
+162,4,6,1500,23,Donated
+163,9,9,2250,16,Not Donated
+164,2,3,750,52,Not Donated
+165,16,3,750,50,Not Donated
+166,2,2,500,11,Not Donated
+167,4,14,3500,86,Not Donated
+168,4,1,250,4,Not Donated
+169,3,4,1000,29,Not Donated
+170,23,1,250,23,Not Donated
+171,40,1,250,40,Not Donated
+172,4,1,250,4,Not Donated
+173,2,41,10250,98,Not Donated
+174,4,2,500,52,Not Donated
+175,21,3,750,38,Donated
+176,2,3,750,9,Not Donated
+177,2,12,3000,95,Not Donated
+178,11,2,500,52,Not Donated
+179,4,1,250,4,Not Donated
+180,14,1,250,14,Not Donated
+181,11,5,1250,33,Not Donated
+182,4,9,2250,26,Donated
+183,16,1,250,16,Not Donated
+184,4,16,4000,70,Not Donated
+185,14,2,500,14,Donated
+186,14,3,750,28,Not Donated
+187,11,1,250,11,Not Donated
+188,2,1,250,2,Not Donated
+189,14,2,500,14,Donated
+190,4,23,5750,58,Donated
+191,6,3,750,26,Not Donated
+192,16,2,500,16,Not Donated
+193,14,2,500,29,Not Donated
+194,11,7,1750,64,Not Donated
+195,16,1,250,16,Not Donated
+196,21,2,500,23,Donated
+197,23,8,2000,46,Not Donated
+198,23,2,500,28,Not Donated
+199,4,11,2750,64,Donated
